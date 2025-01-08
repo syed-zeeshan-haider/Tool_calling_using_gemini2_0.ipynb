@@ -34,7 +34,7 @@ This application integrates various tools that perform different tasks:
 
 🔊 text_to_voice: Converts text input into spoken audio output.
 
-Prerequisites ✅
+# Prerequisites ✅
 
 Python 3.8 or higher
 
@@ -44,7 +44,7 @@ LangChain Generative AI setup
 
 Required libraries mentioned in requirements.txt
 
-Usage 💡
+# Usage 💡
 
 Access the application in your browser at http://localhost:3000.
 
@@ -110,7 +110,7 @@ Creates AI-generated images using models like DALL-E or Stable Diffusion.
 
 Converts text to speech using libraries like gTTS or Amazon Polly.
 
-Contributing 🤝
+# Contributing 🤝
 
 Fork the repository.
 
@@ -120,6 +120,6 @@ Commit your changes and push to the branch.
 
 Create a pull request.
 
-License 📜
+# License 📜
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
